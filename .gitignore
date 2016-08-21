@@ -1,0 +1,8 @@
+./vendor
+
+
+./app1/log/
+./app1/cache/
+
+
+.idea
